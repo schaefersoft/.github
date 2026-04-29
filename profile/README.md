@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://schaefersoft.ch/_static/logos/full_logo/dark/logo_full_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://schaefersoft.ch/_static/logos/full_logo/dark/logo_full_dark.svg">
   <img alt="SchaeferSoft" src="https://schaefersoft.ch/_static/logos/full_logo/light/logo_full_light.svg" width="360">
 </picture>
 
